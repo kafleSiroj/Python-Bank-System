@@ -1,2 +1,2 @@
 # Python-Bank-Program
-This is a simple bank management program in python
+This is a simple bank management system in made in python
